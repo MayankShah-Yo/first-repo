@@ -28,3 +28,5 @@ def climb_stairs_optimized(n):
     for _ in range(n):
         a, b = b, a + b
     return a
+
+# And we can also update logic of the code.
